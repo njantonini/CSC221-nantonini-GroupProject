@@ -1,2 +1,11 @@
 # CSC221-nantonini-GroupProject
-Final Project for CSC221
+
+Group Project for CSC221 2025 SP
+
+Owner: Nicholas Antonini
+
+Project Description: 
+
+Webscraped URL: 
+
+Collaborator:
