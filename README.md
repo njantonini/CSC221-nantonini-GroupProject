@@ -12,4 +12,4 @@ Webscraped URL: [Economy of the United States](https://en.wikipedia.org/wiki/Eco
 Collaborator:
 * Name : Ethan Bevier
 * Email : etbevier@my.waketech.edu
-* Acceptance Status: 
+* Acceptance Status: Accepted
